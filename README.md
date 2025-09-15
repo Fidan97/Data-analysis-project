@@ -1,3 +1,4 @@
+![i (1)](https://github.com/user-attachments/assets/c8155e4d-684b-43e4-82ca-b57564a2c61c)
 # Data-analysis-project
 My project related to data analysis.
 # 1.Transctions project
